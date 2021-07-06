@@ -1,0 +1,4 @@
+#Fri Feb 19 17:41:01 GMT+06:00 2021
+base.0=C\:\\Users\\Admin\\WebstormProjects\\daily_maps_chat\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
